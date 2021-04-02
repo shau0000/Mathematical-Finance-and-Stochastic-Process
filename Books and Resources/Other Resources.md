@@ -9,7 +9,7 @@ The content of these courses is available for free. *The specificity on how much
 * Course on [Data Science with Python](https://www.coursera.org/learn/corporate-finance-essentials)
 
 ## Applications
-* Zerodha Varsity App (available on both PlayStore and AppStore) - This app is a great introductory resource for people who want to understand the stock market and looking to invest in it. The app has several modules which cover the important elementary topics. For starters, it is recommended that you go through the first module (*Introduction to Stock Markets*) to understand how the real market works.
+* [Zerodha Varsity App](https://zerodha.com/varsity/) (available on both PlayStore and AppStore) - This app is a great introductory resource for people who want to understand the stock market and looking to invest in it. The app has several modules which cover the important elementary topics. For starters, it is recommended that you go through the first module (*Introduction to Stock Markets*) to understand how the real market works.
 
 ## Youtube videos
 (Will be updated)
