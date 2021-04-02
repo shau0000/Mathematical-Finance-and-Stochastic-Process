@@ -17,4 +17,3 @@ The sudents who have been allotted the project officially and wish to obtain the
 
 * Please discuss anything regarding the project on the #project-6-finance discord channel to maintain coherence.
 * We will have weekly or bi-weekly assignments consisting of short-answer type 2 or 3 questions. The submission link will be provided separately for each assignment.
-
