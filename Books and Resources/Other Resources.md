@@ -16,3 +16,4 @@ The content of these courses is available for free. *The specificity on how much
 These videos are not necessarily required for your project, but these are some videos we found interesting, you may watch them during your free time to learn more about finance.
 
 * [Financial Crisis 2008](https://youtu.be/N9YLta5Tr2A)
+* [How does a cryptocurrency work?](https://youtu.be/bBC-nXj3Ng4)
