@@ -12,7 +12,7 @@
 Go over the chapters, 4, 5, 6 and 7 of the first module [Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
 
 ## Further Reading
-Those who already know the required basics of Python and prob & stats, can contact Shaurya to start learning Portfolio theory.
+Those who already know the required basics of Python and prob & stats, can contact Shaurya to start learning Portfolio theory. Or, they can also start learning from the [Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 
 Those who want to learn Derivatives pricing theory might begin by reading the book **Options, Futures, and Other Derivatives** by **John C. Hull**. 
 
