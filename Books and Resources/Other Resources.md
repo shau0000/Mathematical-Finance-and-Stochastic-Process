@@ -3,7 +3,7 @@
 This file contains some of the resources which might be useful for you. We will notify any updates in this file on the Discord group.
 
 ## Courses
-The content of these courses is available for free. *The specificity on how much of these courses to cover will be updated shortly.*
+The content of these courses is available for free.
 
 * Course on [Corporate Finance](https://www.coursera.org/learn/corporate-finance-essentials)
 * Course on [Data Science with Python](https://www.coursera.org/learn/python-data-analysis)

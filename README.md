@@ -2,7 +2,8 @@
 Stamatics 2021
 
 ## Updates
-* Updated Weekly tasks for Week 1.
+* Updated Weekly tasks for Week 2.
+* We will now be meeting on **Sunday 8 PM**, instead of Monday 8 PM.
 
 ## Objectives 
 
@@ -10,7 +11,7 @@ The goal of this project is to introduce the students with basics of finance and
 
 ## Weekly meetings
 
-We will have weekly meetings on **Monday 8PM** where we would go over the topics in the coming week and also the students can discuss any of their doubts here. Click on this [link](https://zoom.us/j/94390458025?pwd=dEZYZU1IUVMvRmNNckxza1ZIUEY2dz09) to join the meeting.
+We will have weekly meetings on **Sunday 8PM** where we would go over the topics in the coming week and also the students can discuss any of their doubts here. Click on this [link](https://zoom.us/j/94390458025?pwd=dEZYZU1IUVMvRmNNckxza1ZIUEY2dz09) to join the meeting.
 
 ## Ratification requirements
 
