@@ -2,6 +2,7 @@
 Stamatics 2021
 
 ## Updates
+* Uploaded Assignment 1. **Notes and Assignments > Assignments > Assignment 1**
 * Updated Weekly tasks for Week 2.
 * We will now be meeting on **Sunday 8 PM**, instead of Monday 8 PM.
 
