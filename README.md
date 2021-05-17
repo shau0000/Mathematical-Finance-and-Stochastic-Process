@@ -2,6 +2,7 @@
 Stamatics 2021
 
 ## Updates
+* The Assignment 1 deadline has been extended to 18th May 11:59 PM.
 * Updated Weekly tasks for Week 5.
 * We will now be meeting on **Sunday 8 PM**, instead of Monday 8 PM.
 
